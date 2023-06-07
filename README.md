@@ -2,6 +2,14 @@
 
 The IDE used was Visual Studio Community 2022 (64 bits) version 17.4.4. It was programmed in C++, and Qt 6.4.2 was used for the user interface.
 
+## Interface
+
+<p align="center">
+    <img src="readme_assets/guizmo.png" width=800 /></br>
+    <em>This is the application interface.</em>
+</p>
+
+
 ## Input files 
 
 The input files needed to run the program are as follows:
