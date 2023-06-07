@@ -5,7 +5,7 @@ The IDE used was Visual Studio Community 2022 (64 bits) version 17.4.4. It was p
 ## Interface
 
 <p align="center">
-    <img src="readme_assets/guizmo.png" width=800 /></br>
+    <img src="image1.png" width=800 /></br>
     <em>This is the application interface.</em>
 </p>
 
